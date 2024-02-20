@@ -10,7 +10,7 @@ Hi I'm Kumar Sahitya. I derive the greatest satisfaction from coding, especially
 [![Mail Badge](https://img.shields.io/badge/-@__sahitya__sk__2728-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_sahitya_sk_2728)
 [![Mail Badge](https://img.shields.io/badge/-Kumar_Sahitya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ksahitya27@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-Kumar_Sahitya-2b3137?style=flat&labelColor=2b3137&logo=github&logoColor=white)](mailto:ksahitya27@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/-CoderOne-FF5722?style=flat&labelColor=FF5722&logo=blogger&logoColor=white)](https://sahityakumarsk.blogspot.com/)
+[![Mail Badge](https://img.shields.io/badge/-Kumar_Sahitya-FF5722?style=flat&labelColor=FF5722&logo=blogger&logoColor=white)](https://sahityakumarsk.blogspot.com/)
 
 ### What I currently Do
 
