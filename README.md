@@ -40,10 +40,10 @@ Innovative Software Engineer with expertise in full-stack development. Dedicated
 
 In addition to my professional pursuits, I have a keen interest in watching movies, exploring web series, and following cricket matches.
 
-
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=kumarsahitya&count_private=true&theme=radical)
+![kumar's top-langs stats](https://github-readme-stats-kumarsahityas-projects.vercel.app/api/top-langs?username=kumarsahitya&count_private=true&show_icons=true&locale=en&include_all_commits=true&layout=compact) ![kumar's github stats](https://github-readme-stats-kumarsahityas-projects.vercel.app/api?username=kumarsahitya&count_private=true&show_icons=true&locale=en&include_all_commits=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarsahitya)](https://git.io/streak-stats)
 
 </details>
