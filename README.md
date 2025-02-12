@@ -14,7 +14,7 @@ Hi I'm Kumar Sahitya. I derive the greatest satisfaction from coding, especially
 
 ### What I currently Do
 
-- 🔭 I’m currently working at @Blackhawk Network
+- 🔭 I’m currently working at @Acquia
 - 💻 Most used line of code `git checkout master`
 - 📫 How to reach me: ksahitya27@gmail.com.
 - ⚡ Fun fact: I love cricket and spend time with family.
@@ -36,7 +36,7 @@ Hi I'm Kumar Sahitya. I derive the greatest satisfaction from coding, especially
 
 <br >
 
-Innovative Software Engineer with expertise in full-stack development. Dedicated to crafting efficient and scalable solutions.
+Innovative Senior Software Engineer with expertise in full-stack development. Dedicated to crafting efficient and scalable solutions.
 
 In addition to my professional pursuits, I have a keen interest in watching movies, exploring web series, and following cricket matches.
 
